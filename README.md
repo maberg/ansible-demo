@@ -26,5 +26,4 @@ R2      10.0.0.2
 R3      10.0.0.3
 R4      10.0.0.4
 
-
 All link addresses 10.10.RouterlowRouterhigh.Routernumber/24, e.g link between R2 and R4: 10.10.24.2/24 and 10.10.24.4/24
