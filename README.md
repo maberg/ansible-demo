@@ -4,14 +4,13 @@ A simple testlab for Ansible automation demonstrations.
 Cisco CSRv platform chosen for lack of support for "commit", "rollback" etc modern features.
 This will show the power of Ansible even on older very basic systems.
 
-Network diagram:
+Network diagram (please view file in RAW MODE to experience the ASCII diagram):
 
    -----R2-----
   /            \ 
 R1              R4
   \            /
    -----R3-----
-   
 
 
 R1 and R4 defined as members of Ansible group "edge"
