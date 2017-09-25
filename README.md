@@ -7,10 +7,15 @@ This will show the power of Ansible even on older very basic systems.
 Network diagram:
 
    -----R2-----
+   
   /            \
+  
 R1              R4
+
   \            /
+  
    -----R3-----
+   
 
 
 R1 and R4 defined as members of Ansible group "edge"
