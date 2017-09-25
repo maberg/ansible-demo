@@ -7,13 +7,9 @@ This will show the power of Ansible even on older very basic systems.
 Network diagram:
 
    -----R2-----
-   
-  /            \
-  
+  /            \ 
 R1              R4
-
   \            /
-  
    -----R3-----
    
 
