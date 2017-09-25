@@ -17,7 +17,7 @@ R1 and R4 defined as members of Ansible group "edge"
 
 R2 and R3 defined as members of Ansible group "core"
 
-## Access and IP addresseing
+## Access and IP addressing
 
 Access from orchestration server using SSH: orc/orc123
 
